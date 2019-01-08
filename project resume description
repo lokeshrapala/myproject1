@@ -1,0 +1,19 @@
+Project#1  
+Title		: 	Payroll management
+Duration 	:	Sep 2017 to till Date.  
+Client		:	Methodical digital solutions
+Programming Languages	: Python
+Frame works : Django, Django Rest Framework
+Databases : MySQL
+IDE’s: Pycharm
+Description:	
+Payroll management facilitates fastest payroll services to the registered clients when compared to manual payrolls . Apart from payroll it provides leave tracker, tax calculator, form 16 and api access to clients. Fixed reports are generated and send to the client mails. customized reports also provided according to client requirements .
+Responsibilities:
+	Understanding the project requirements and analyzing the Backlog requirements.
+	Developing the required Logic based on the Backlog Requirement.
+	Involved in developing/Enhancing the code based on the client requirements.
+	Involved in creating modules and models using Python required for the project.
+	Involved in accessing data from database as demanded for a task. 
+	Involved order tracking and cancellation management.
+	Involved in rest api’s implementation.
+	Coordinating with team in implementation of business logic such sms functionality, reports generation  and email functionalities.
